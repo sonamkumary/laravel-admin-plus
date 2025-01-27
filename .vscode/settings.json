@@ -1,0 +1,8 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "resources/assets/dcat/plugins/editor-md/languages",
+        "resources/assets/dcat/plugins/select/i18n",
+        "resources/assets/dcat/plugins/tinymce/langs"
+    ]
+}
