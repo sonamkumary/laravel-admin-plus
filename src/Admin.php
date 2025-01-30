@@ -72,7 +72,7 @@ class Admin
      */
     public static function longVersion()
     {
-        return sprintf('Dcat Admin <comment>version</comment> <info>%s</info>', static::VERSION);
+        return sprintf('Laravel Admin plus <comment>version</comment> <info>%s</info>', static::VERSION);
     }
 
     /**
